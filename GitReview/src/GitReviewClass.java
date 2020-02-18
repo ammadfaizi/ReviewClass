@@ -5,6 +5,7 @@ public class GitReviewClass {
 		// TODO Auto-generated method stub
 		System.out.println("Review Class");
 		System.out.println("Review Class - local changes");
+		System.out.println("Review Class - remote changes");
 
 	}
 
