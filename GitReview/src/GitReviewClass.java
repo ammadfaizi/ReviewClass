@@ -7,6 +7,7 @@ public class GitReviewClass {
 		System.out.println("Review Class - local changes");
 		System.out.println("Review Class - remote changes");
 		System.out.println("Review Class - local changes 2");
+		System.out.println("Review Class - local changes 3");
 	}
 
 }
